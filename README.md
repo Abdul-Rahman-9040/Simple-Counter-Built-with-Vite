@@ -4,7 +4,6 @@ This project is a simple counter application built with Vite, React, and some es
 
 ## Features
 
-- Increment and decrement counter functionality
 - Built with Vite for fast development and build times
 - Uses React for building the user interface
 
